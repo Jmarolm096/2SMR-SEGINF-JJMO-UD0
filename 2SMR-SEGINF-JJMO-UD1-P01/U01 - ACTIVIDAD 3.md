@@ -12,9 +12,15 @@ Una academia de formación online almacena en un servidor los datos personales y
 ## TAREAS
 1. Identifica el activo o activos.
 
+- El activo y del que no se aplica es el parche de dicho fabricante del sistema CMS. 
+
 2. implicados en el incidente.
 
+- Los implicados de los daños son la entidad, los familiares de os alumn@s y los propi@s alumn@s.
+
 3. Identifica la amenaza.
+
+- La amenaza de 
 
 4. Identifica la vulnerabilidad explotada.
 
