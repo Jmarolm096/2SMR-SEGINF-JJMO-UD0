@@ -40,12 +40,26 @@ Medidas que clasificar:
 
 **Activa** : Previene posibles conflictos con otras redes.
 
-5. Sistema de discos redudantes (RAID) en el servidor de archivos.
+5. Sistema de discos redudantes (RAID) en el servidor de archivos.\
+\
+**Físico**: Elemnto físico que permite el aumento de capacidad de almacenamiento de la entidad.
 
+**Activo**: Evita que se produzcan indultos o modificaciones de toda la información al tenerlo alojados en una ubicación no conocida para el personal y sí conocida para los especialistas de estos servidores.
 
+6. Control de acceso con tarjeta a la sala de servidores.\
+\
+**Físico**: Elemento físico unicamente preparado para aquellos agentes directamente relacionados con la entidad.
 
-6. Control de acceso con tarjeta a la sala de servidores.
+**Activo**: Evita por completo que no puedan acceder terceros (Quienes no tienen ninguna relación con al entidad)
 
-7. Copia de seguridad semanal de los datos de clientes.
+7. Copia de seguridad semanal de los datos de clientes.\
+\
+**Lógica**: Se establece una programación para mantener a salvo la información semanalmente.
+
+**Activa**: Se evita que la información no se pierda por completo en caso de secuestro o pérdidas.
    
-8. Antivirus actualizado en todos los equipos.
+1. Antivirus actualizado en todos los equipos.\
+\
+**Lógica**: Herramienta instalada en nuestro sistema para evitar ataques maliciosos.
+
+**Activo**: Evita que podamos sufrir diferentes ataques de malware en el equipo.
