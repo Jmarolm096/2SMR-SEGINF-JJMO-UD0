@@ -43,9 +43,9 @@ Medidas que clasificar:
 
 5. Sistema de discos redudantes (RAID) en el servidor de archivos.\
 \
-**Físico**: Elemnto físico que permite el aumento de capacidad de almacenamiento de la entidad.
+**Físico**: Elemento físico que permite el aumento de capacidad de almacenamiento de la entidad.
 
-**Activo**: Evita que se produzcan indultos o modificaciones de toda la información al tenerlo alojados en una ubicación no conocida para el personal y sí conocida para los especialistas de estos servidores.
+**Pasivo**: Minimiza los daños sobre el almacenamiento principal y este se perserve sobre el (RAID)
 
 6. Control de acceso con tarjeta a la sala de servidores.\
 \
@@ -59,8 +59,8 @@ Medidas que clasificar:
 
 **Activa**: Se evita que la información no se pierda por completo en caso de secuestro o pérdidas.
    
-1. Antivirus actualizado en todos los equipos.\
+8. Antivirus actualizado en todos los equipos.\
 \
 **Lógica**: Herramienta instalada en nuestro sistema para evitar ataques maliciosos.
 
-**Activo**: Evita que podamos sufrir diferentes ataques de malware en el equipo.
+**Activo**: Evita que se ejecute el malware que pretende ingresar en el equipo y podamos evitar sufrir diferentes ataques de malware en el equipo. 
