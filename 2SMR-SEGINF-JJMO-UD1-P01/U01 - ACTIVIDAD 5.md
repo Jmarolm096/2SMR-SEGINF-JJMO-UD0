@@ -33,5 +33,6 @@ Anotación E: "Se ha recomendado al cliente instalar la actualización del fabri
    4. Anotación C: Exploit.
    5. Anotación E: Parcheo y verificación.
 
-1. Explica qué diferencia a este test de intrusión de un ataque malicioso real, a partir de un dato que debería figurar en el caso aunque no se mencione explícitamente.
+2. Explica qué diferencia a este test de intrusión de un ataque malicioso real, a partir de un dato que debería figurar en el caso aunque no se mencione explícitamente.
 
+-
