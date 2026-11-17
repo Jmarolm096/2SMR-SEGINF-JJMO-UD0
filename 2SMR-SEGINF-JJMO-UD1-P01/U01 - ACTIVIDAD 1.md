@@ -22,10 +22,10 @@ Un mecanismo puede estar relacionado con más de un objetivo, pero debes señala
 
 3. Firma electrónica aplicada a una factura emitida por la empresa.
 
-**CONFIDENCIALIDAD, NO REPUDIO** \
--  los objetivos debido a aquella información que se autoriza que es quien dice ser y reside sobre el personal autorizado.
+**NO REPUDIO** \
+-  los objetivos debido a aquella información que se autoriza que es quien dice ser.
 
-4. Sistema de permisos que impide a un usuario modificar archivos de otro departamento.
+1. Sistema de permisos que impide a un usuario modificar archivos de otro departamento.
 
 **INTEGRIDAD** \
 - Cumple el objetivo debido a que no permite bajo ningún concepto que la modificación de los archivos esté llevada por otros departamentos que no sea el suyo.
@@ -47,6 +47,6 @@ Un mecanismo puede estar relacionado con más de un objetivo, pero debes señala
 
 8. Control de acceso mediante usuario y contraseña a una aplicación interna.
 
-**CONFIDENCIALIDAD, NO REPUDIO** \
+**CONFIDENCIALIDAD** \
 - Cumple los objetivos debido a que protege el acceso a la información mediante una acreditación concreta del personal que lo solicita.
 
