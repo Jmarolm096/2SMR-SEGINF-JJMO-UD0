@@ -28,7 +28,7 @@ Una academia de formación online almacena en un servidor los datos personales y
 
 5. Explica en qué consistía el riesgo antes de que el incidente se produjera.
 
-- El riesgo que han tenido el centro durante todo este tiempo es mantener desactualizado sus sistema CMS.
+- El riesgo está en la vulnerabilidad hábil sobre el atacante que puede aprovecharse de ello.
 
 6. Describe en qué consistió el ataque.
 
@@ -42,4 +42,4 @@ Una academia de formación online almacena en un servidor los datos personales y
 
 8. Indica qué tipo de vulnerabilidad era, según la clasificación por grado de conocimiento vista en clase (conocida sobre software instalado, conocida sobre software no instalado, o día cero), y justifica tu respuesta.
 
-- 
+- **Conocida en software instalado**: Tenemos el conocimiento que el parche existe para dar con su solución.
