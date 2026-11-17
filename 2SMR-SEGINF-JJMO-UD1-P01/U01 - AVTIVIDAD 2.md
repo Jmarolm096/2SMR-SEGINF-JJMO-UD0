@@ -24,6 +24,7 @@ Medidas que clasificar:
 .**Pasiva**: Se activa automáticamente cuando detecta la adversidad y minimice los daños causados.
 
 2. Política de contraseñas con caducidad cada 60 días. \
+\
 **Lógica**: Es el descrito sobre como ha de generar una contraseña correcta sobre la entidad y es aplicado desde un apartado web de la entidad.
 
 **Activa**: Se actualiza manualmente una vez pasado los 60 días.
